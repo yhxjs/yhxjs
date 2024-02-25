@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<p><img src="https://readme-typing-svg.herokuapp.com?font=Microsoft+YaHei&duration=4000&pause=1000&color=01B0FF&center=true&random=false&lines=%E5%BF%83%E4%B9%8B%E6%89%80%E5%90%91" alt="Typing SVG" /></p>
 <!--
 **yhxjs/yhxjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
